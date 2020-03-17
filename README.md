@@ -4,7 +4,7 @@ A frame to hold three 8"x8" pictures, so that they all three pictures are equall
 
 Intended to be laser cut out of clear plastic and the pictures mounted behind the frame. 
 
-TODO: Picture here
+![design preview](triple%20picture%20frame.png)
 
 ## Development workflow
 
