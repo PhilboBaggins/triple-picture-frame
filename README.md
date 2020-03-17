@@ -8,7 +8,7 @@ Intended to be laser cut out of clear plastic and the pictures mounted behind th
 
 ## Development workflow
 
-Drawn in Inkscape. Nothing fancy.
+Drawn in [Inkscape](https://inkscape.org/). Nothing fancy.
 
 All measurements in inches because the pictures I intent to mount are 8" by 8".
 
