@@ -6,6 +6,10 @@ Intended to be laser cut out of clear plastic and the pictures mounted behind th
 
 ![design preview](triple%20picture%20frame.png)
 
+## Example
+
+![](photo.jpg)
+
 ## Development workflow
 
 Drawn in [Inkscape](https://inkscape.org/). Nothing fancy.
